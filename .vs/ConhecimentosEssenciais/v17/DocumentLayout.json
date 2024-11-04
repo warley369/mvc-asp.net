@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\warle\\OneDrive\\Desktop\\MVCZero\\ConhecimentosEssenciais\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{257291EF-D82D-4307-8150-AF9324FF3A61}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\users\\warle\\onedrive\\desktop\\mvczero\\conhecimentosessenciais\\src\\appsemtemplate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{257291EF-D82D-4307-8150-AF9324FF3A61}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257291EF-D82D-4307-8150-AF9324FF3A61}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\users\\warle\\onedrive\\desktop\\mvczero\\conhecimentosessenciais\\src\\appsemtemplate\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{257291EF-D82D-4307-8150-AF9324FF3A61}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257291EF-D82D-4307-8150-AF9324FF3A61}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\users\\warle\\onedrive\\desktop\\mvczero\\conhecimentosessenciais\\src\\appsemtemplate\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{257291EF-D82D-4307-8150-AF9324FF3A61}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{257291EF-D82D-4307-8150-AF9324FF3A61}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\users\\warle\\onedrive\\desktop\\mvczero\\conhecimentosessenciais\\src\\appsemtemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{257291EF-D82D-4307-8150-AF9324FF3A61}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -14,8 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\warle\\OneDrive\\Desktop\\MVCZero\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\AppSemTemplate\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\warle\\OneDrive\\Desktop\\MVCZero\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "src\\AppSemTemplate\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:59:55.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\warle\\OneDrive\\Desktop\\MVCZero\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "src\\AppSemTemplate\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\warle\\OneDrive\\Desktop\\MVCZero\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "src\\AppSemTemplate\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:59:42.761Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -26,7 +64,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\warle\\OneDrive\\Desktop\\MVCZero\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "src\\AppSemTemplate\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\warle\\OneDrive\\Desktop\\MVCZero\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "src\\AppSemTemplate\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:59:41.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\warle\\OneDrive\\Desktop\\MVCZero\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "src\\AppSemTemplate\\Views\\Shared\\_Layout.cshtml",
